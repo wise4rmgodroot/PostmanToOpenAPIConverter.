@@ -219,4 +219,4 @@ For any questions or suggestions, please open an issue or contact the maintainer
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Wisdom Nwokocha](www.linkedin.com/in/joklinztech) and [Prince]
